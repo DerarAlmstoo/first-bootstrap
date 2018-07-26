@@ -1,0 +1,25 @@
+/* .owl-carousel .owl-stage-outer {
+	overflow: visible;
+}
+
+.owl-carousel .owl-item {
+	opacity: 0;
+	transition: opacity 500ms;
+}
+
+.owl-carousel .owl-item.active {
+	opacity: 1;
+} */
+
+.owl-theme .owl-dots .owl-dot span {
+	background: #ffca00;
+}
+
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{
+	background: #A5A5A5;
+}
+
+
+ 
+
+ 
